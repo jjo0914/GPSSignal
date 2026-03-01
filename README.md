@@ -8,10 +8,12 @@
 sampleRate: GPS신호를 생성할 샘플링 주파수<br>
 maximumsat: 신호에 반영할 최대 위성 수<br>
 waveDuration: 신호가 시뮬레이션하는 총 시간(s)<br>
-rinexFileName: 다운로드한 RINEX파일 이름 <br>
-rxlla:신호가 시뮬레이션 하는 수신기 위치
+rinexFileName: 다운로드한 RINEX파일 이름<br>
+rxlla:신호가 시뮬레이션 하는 수신기 위치<br>
 
-
+# GNSS-SDR 검증 
+GNSS-SDR 소프트웨어를 사용하여 생성한 Baseband GPS 신호를 검증했습니다
+2026년 2월 25일에 올라온 RINEX파일을 사용했고 수신기 위치는 도쿄 (35.682074,139.767112,8)로 설정했습니다.
 
 
 
