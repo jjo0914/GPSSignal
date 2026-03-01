@@ -13,7 +13,7 @@ sampleRate        =  4*1.023e+06; %  fs> 4*C/A 칩레이트 1.023MHZ / 2*1.023e+
 maximumsat=5;                                 
                       
 numchannels=1;
- waveDuration=30; % 총시간 초 단위 
+ waveDuration=1; % 총시간 초 단위 
                    % 와 3분너무길다 그렇다고 와바박 되는것도아님..
 
  stepTime = 0.001;  % !수정 0.02가 best인데 수신기락풀리면 0.001까지 

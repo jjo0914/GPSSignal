@@ -8,4 +8,4 @@ testNoise=testNoise.';
 fwrite(fid,testNoise(:),'int16'); % *2행렬을 선형으로 int16, float32,
 fclose(fid);
 disp('Ubuntu로 저장 완');
-% 5e6 30초만 되도 엄청파일크기큼 1G가넘네..ㅋㅋ
+% 5e6 30초만 되도 엄청파일크기큼 1G가넘네
