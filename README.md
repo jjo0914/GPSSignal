@@ -19,9 +19,11 @@ GNSS-SDR 소프트웨어를 사용하여 생성한 Baseband GPS 신호를 검증
 
 MATLAB 코드생성<br>
 ![](result11.png)
+
 GNSS-SDR에서 수신기 위치 추적<br>
 ![](result2.jpg)
-설정 수신기 위치 & 추적된 수신기 위치<br>
+
+설정한 수신기 위치 & GNSS-SDR이 계산한 수신기 위치<br>
 ![](result3.jpg)
 
 # SDR 전송
