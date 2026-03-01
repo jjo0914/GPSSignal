@@ -9,7 +9,7 @@ sampleRate: GPS신호를 생성할 샘플링 주파수<br>
 maximumsat: 신호에 반영할 최대 위성 수<br>
 waveDuration: 신호가 시뮬레이션하는 총 시간(s)<br>
 rinexFileName: 다운로드한 RINEX파일 이름<br>
-rxlla:신호가 시뮬레이션 하는 수신기 위치<br>
+rxlla:신호가 시뮬레이션 하는 수신기 위도,경도 값<br>
 
 # GNSS-SDR 검증 
 GNSS-SDR 소프트웨어를 사용하여 생성한 Baseband GPS 신호를 검증했습니다
