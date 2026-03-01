@@ -1,7 +1,15 @@
 # GPS Signal
 고정된 수신기 위치의 GPS L1 C/A 신호를 생성하는 MATLAB 코드입니다<br>
+
 원하는 날짜와 시간대의 GPS RINEX V3 파일을 https://cddis.nasa.gov/archive/gnss/ 에서 다운로드 한 후
-메인 스크립트내의 변수들을 원하는 값들로 수정합니다
+메인 스크립트내의 변수들을 원하는 값들로 수정합니다<br>
+
+대표변수<br>
+sampleRate: GPS신호를 생성할 샘플링 주파수<br>
+maximumsat: 신호에 반영할 최대 위성 수<br>
+waveDuration: 신호가 시뮬레이션하는 총 시간(s)<br>
+rinexFileName: 다운로드한 RINEX파일 이름 <br>
+rxlla:신호가 시뮬레이션 하는 수신기 위치
 
 
 
