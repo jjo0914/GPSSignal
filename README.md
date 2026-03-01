@@ -18,7 +18,7 @@ GNSS-SDR 소프트웨어를 사용하여 생성한 Baseband GPS 신호를 검증
 전송시간은 2026-02-25 22:00:12 UTC 입니다.<br>
 
 MATLAB 코드생성<br>
-![](result1.png)
+![](result1.jpg)
 GNSS-SDR에서 수신기 위치 추적<br>
 ![](result2.jpg)
 설정 수신기 위치 & 추적된 수신기 위치<br>
