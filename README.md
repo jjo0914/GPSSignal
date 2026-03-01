@@ -17,9 +17,15 @@ GNSS-SDR 소프트웨어를 사용하여 생성한 Baseband GPS 신호를 검증
 2026년 2월 25일에 올라온 RINEX파일을 사용하고 수신기 위치는 도쿄 (35.682074,139.767112,8)로 설정했습니다.<br>
 전송시간은 2026-02-25 22:00:12 UTC 입니다.<br>
 
+MATLAB 코드생성<br>
+![](result1.jpg)
+GNSS-SDR에서 수신기 위치 추적<br>
+![](result2.jpg)
+설정 수신기 위치 & 추적된 수신기 위치<br>
+![](result3.jpg)
 
-
-
+# SDR 전송
+아파트 지하 밀폐된 장소에서 생성한 GPS 신호를 ADALM PLUTO SDR사용해서 GNURADIO로 전송했습니다
 
 
 SDRGPSSignalV4.m: 메인 스크립트
