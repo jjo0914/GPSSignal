@@ -28,7 +28,7 @@ GNSS-SDR에서 수신기 위치 추적<br>
 ![](result3.jpg)
 
 # SDR 전송
-아파트 지하 밀폐된 장소에서 생성한 GPS 신호를 ADALM PLUTO SDR사용해서 GNURADIO로 전송했습니다
+ 문제가 될 소지 있어 삭제
 
 
 SDRGPSSignalV4.m: 메인 스크립트
