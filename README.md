@@ -1,6 +1,6 @@
 # GPS Signal
 고정된 수신기 위치의 GPS L1 C/A 신호를 생성하는 MATLAB 코드입니다<br>
-Matlab에서 제공하는 뛰어난 툴박스(Wireless,AeroSpace..)들과 예제파일(HelperGPSConverTime,HelperGNSSChannel..)들을 사용했습니다<br>
+Matlab에서 제공하는 툴박스(Wireless,AeroSpace..)들과 예제파일(HelperGPSConverTime,HelperGNSSChannel..)들을 사용했습니다<br>
 
 원하는 날짜와 시간대의 GPS RINEX V3 파일을 https://cddis.nasa.gov/archive/gnss/ 에서 다운로드 한 후
 메인 스크립트내의 변수들을 원하는 값들로 수정합니다<br>
