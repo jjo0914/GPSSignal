@@ -28,7 +28,7 @@ GNSS-SDR에서 수신기 위치 추적<br>
 ![](result3.jpg)
 
 # SDR 전송
- 문제가 될 소지 있어 삭제
+삭제
 
 
 SDRGPSSignalV4.m: 메인 스크립트
