@@ -27,8 +27,10 @@ GNSS-SDR에서 수신기 위치 추적<br>
 설정한 수신기 위치 & GNSS-SDR이 계산한 수신기 위치<br>
 ![](result3.jpg)
 
-# SDR 전송
+# RF
 삭제
+![](gps1.gif)
+![](gps3.gif)
 
 
 SDRGPSSignalV4.m: 메인 스크립트
