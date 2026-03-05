@@ -37,6 +37,11 @@ GNSS-SDR에서 수신기 위치 추적<br>
 ![Image](gps3gitgub.gif)
 
 
-SDRGPSSignalV4.m: 메인 스크립트
-HelplerGNSSChannel.m: MATLAB에서 제공하는 예제파일입니다 연산을 줄이기 위해 수정했습니다
-Helper
+SDRGPSSignalV4.m: 메인 스크립트 <br>
+HelplerGNSSChannel.m: MATLAB에서 제공하는 예제파일입니다. 딜레이+도플러 적용 연산을 줄이기 위해 수정했습니다 <br>
+HelperRINEX2Config: MATLAB에서 제공, GNSS-SDR과의 호환성을 위해 수정 <br>
+HelperGPSConverTime.m : MATALB에서 제공하는 UTC-> GPST 변환 <br>
+HelpperGPSNaviationConfig: MATALB 제공 <br>
+DAEJ00KOR_R_20260560000_01D_GN.rnx: GPS신호생성에 사용한 RINEX파일  <br>
+GNSS-SDR-config_int.conf: GNSS-SDR 설정 파일  <br>
+UbuntuFileSave.m: 가상환경 우분투 저장소로 파일을 저장   <br>
