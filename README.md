@@ -33,7 +33,7 @@ GNSS-SDR에서 수신기 위치 추적<br>
 갤럭시 탭 A <br>
 ![Image](gps2gitgub.gif)<br>
 
-루나리스 GPS 시계<br>
+루나리스 GPS 시계(UTC 22:00= KST 07:00)<br>
 ![Image](gps3gitgub.gif)
 
 
