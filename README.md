@@ -28,8 +28,11 @@ GNSS-SDR에서 수신기 위치 추적<br>
 ![](result3.jpg)
 
 # RF
-문제가 될 부분이 있어 삭제했습니다
+문제가 될 부분이 있어 삭제했습니다.<br>
+
+갤럭시 탭 A 
 ![Image](gps2gitgub.gif)
+가정용 GPS 시계
 ![Image](gps3gitgub.gif)
 
 
