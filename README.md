@@ -28,7 +28,7 @@ GNSS-SDR에서 수신기 위치 추적<br>
 ![](result3.jpg)
 
 # RF
-삭제
+문제가 될 부분이 있어 삭제했습니다
 ![](gps2github.gif)
 ![](gps3github.gif)
 
