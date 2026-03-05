@@ -29,8 +29,8 @@ GNSS-SDR에서 수신기 위치 추적<br>
 
 # RF
 삭제
-![video](gps2.mp4)
-![video](gps3.mp4)
+![](gps2github.gif)
+![](gps3github.gif)
 
 
 SDRGPSSignalV4.m: 메인 스크립트
