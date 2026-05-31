@@ -28,7 +28,7 @@ GNSS-SDR에서 수신기 위치 추적<br>
 ![](result3.jpg)
 
 # RF
-문제가 될 부분이 있어 결과 이미지만 첨부.<br>
+요약 결과 이미지만 첨부.<br>
 
 갤럭시 탭 A <br>
 ![Image](gps2gitgub.gif)<br>
